@@ -78,7 +78,7 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/u-sewwandi-mahanama" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:upekasewwandi81@gmail.com">
