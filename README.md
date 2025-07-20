@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+upeka+sewwandi+%F0%9F%91%8B;Software+Engineering+Student;problem+solver" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=20&center=true&vCenter=true&width=600&height=40&lines=Hi+there+I'm+upeka+sewwandi+%F0%9F%91%8B;Software+Engineering+Student;problem+solver" alt="Headline" />
     </div>
 <div>
     <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -42,7 +42,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" width="100%" />
 </p>
 
-<h3 align="center">📊 GitHub Stats Overview</h3>
+## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 <table align="center">
   <tr>
     <td align="center">
