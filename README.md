@@ -20,7 +20,7 @@
 </p><br></br>
     
  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies
-[Technologies]https://skillicons.dev/iconsi=react,nextjs,redux,nodejs,expressjs,nestjs,mongodb,mysql,tailwind,docker,aws,flutter,dotnet,js,ts,java,py,c,arduino,linux)
+
 <br>
 
 <p align="center">
@@ -29,10 +29,11 @@
 
 ## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>Statistical Data<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 
-<br>
+<table align="center">
+  <tr>
+    <td align="center">
+        <imgsrc="https://githubreadmestats.vercel.app/apiusername=upeka200163&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viyathmaranlini&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="viyathmaranlini" /></p>
 
 <br>
 
