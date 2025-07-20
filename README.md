@@ -8,8 +8,8 @@
 ### 🚀 Tech Stack
 
 #### 🖥 Languages & Programming:
-- C, C#, JavaScript, TypeScript, Python, PHP
-- HTML5, CSS3, Bash
+- C, C#, C++, TypeScript, Python, PHP
+- HTML5, CSS3, JavaScript
 
 #### 📱 Mobile & UI/UX:
 - Android Development, Flutter, React Native
@@ -21,7 +21,7 @@
 
 #### 🧠 Tools & Frameworks:
 - .NET, React, Vue.js, Next.js
-- Git, Firebase, Arduino, TensorFlow, Sublime Text, Postman/Paw
+- Git, Firebase, Arduino, TensorFlow, Sublime Text, Postman/Paw,VS Code
 
 #### 🛢 Databases:
 - MySQL, MongoDB, PostgreSQL, Oracle, Microsoft SQL Server
