@@ -1,9 +1,13 @@
-<h1 align="center">Hey there! 👋 I'm <span style="color:#0a66c2">Upeka Sewwandi</span></h1>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <h3 align="LEFT">
+ <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+upeka+sewwandi+%F0%9F%91%8B;Software+Engineering+Student;problem+solver" alt="Headline" />
+    </div>
+<div>
+    <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+</div>
+
 🎓 Software Engineering Undergraduate <br/>
 💻 Full-Stack Developer  <br/>⚙ Database Management <br/> 🧠 Problem Solver <br/>
 🔐 Security Enthusiast <br/>📱 Mobile App Developer <br/> 🤝 Team Collaborator
