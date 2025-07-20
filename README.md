@@ -1,7 +1,7 @@
 # upeka2001c3
 <h1 align="center">Hi 👋, I'm Upeka Sewwandi</h1>
 <h3 align="center">BSc (Hons) Software Engineering | Plymouth University</h3>
-<p align="center">🇱🇰 From Sri Lanka | 💻 Passionate about tech & innovation</p>
+<p align="center"> From Sri Lanka | 💻 Passionate about tech & innovation</p>
 
 ---
 
