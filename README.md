@@ -23,7 +23,7 @@
 ![Technologies](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,expressjs,nestjs,mongodb,mysql,tailwind,docker,aws,flutter,dotnet,js,ts,java,py,c,arduino,linux,html,css,bootstrap,c#)
 <br>
 
-## 📊 Statistical Data
+## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>Statistical Data<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
