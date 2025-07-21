@@ -26,19 +26,16 @@
 ## 📊 Statistical Data
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=upaka200163&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upaka200163&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upeka200163&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upaka200163&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka200163&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
-
----
-
 
 
 
