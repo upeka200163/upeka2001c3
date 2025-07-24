@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upeka200163&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=upeka200163&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
