@@ -30,11 +30,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upeka200163&theme=tokyonight" alt="Streak Stats" />
-</p>>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upeka200163&theme=tokyonight" alt="Streak Stats"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka200163&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka200163&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 </p>
 
 
