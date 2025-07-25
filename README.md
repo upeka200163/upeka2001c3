@@ -36,6 +36,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka200163&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 </p>
+<p align="center">
+  🔥 <em>Committed to creating meaningful digital experiences through software.</em> 🚀
+</p>
 
 
 
