@@ -2,13 +2,12 @@
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=20&center=true&vCenter=true&width=600&height=40&lines=Hi+there+I'm+upeka+sewwandi+%F0%9F%91%8B;Software+Engineering+Student;problem+solver" alt="Headline" />
     </div>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=MalkiMunasinghe&color=brightgreen" alt="watching_count" />
+</p>
 <div>
     <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 </div>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=MalkiMunasinghe&color=brightgreen" alt="watching_count" />
-</p
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp; Talking about Personal Stuffs...
 <p>☘ I’m currently Undergraduate Student at NSBM Green University</p>
 <p>📩 How to reach me: upekasewwandi81@gmail.com</p>
