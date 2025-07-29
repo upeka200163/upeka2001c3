@@ -28,7 +28,7 @@
 
 ## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>Statistical Data<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 
-<table align="center">
+<table align="leftr">
   <tr>
     <td align="left">
       <a href="https://github.com/upeka200163">
