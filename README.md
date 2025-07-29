@@ -28,15 +28,11 @@
 
 ## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>Statistical Data<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/upeka200163">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center">
