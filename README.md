@@ -37,7 +37,7 @@
     </td>
     <td align="right">
       <a href="https://github.com/upeka200163">
-        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=upeka200163&theme=radical" alt="GitHub Streak" />
+        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=upeka200163&theme=radical" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
