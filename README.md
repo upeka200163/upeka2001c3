@@ -32,9 +32,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=upeka200163&theme=tokyonight&hide_border=true" alt="" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/upeka200163">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/upeka200163">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=upeka200163&theme=radical" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka200163&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
